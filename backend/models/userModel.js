@@ -45,3 +45,5 @@ userSchema.methods.method1 = function () {
 const User = mongoose.model('User', userSchema);
 
 export default user
+
+//hello bhakti
